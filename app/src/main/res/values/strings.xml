@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MADE-V3</string>
+    <string name="movies">Movies</string>
+    <string name="tvshow">Tvshow</string>
+    <string name="ini_adalah_poster_backdrop_pada_activity_detail">this is a poster backdrop</string>
+    <string name="popularity">Popularity :</string>
+    <string name="vote">Vote :</string>
+    <string name="overview">Overview :</string>
+    <string name="pengaturan_bahasa">Language Setting</string>
+</resources>

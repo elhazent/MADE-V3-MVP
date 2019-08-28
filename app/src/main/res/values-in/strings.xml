@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MADE-V3</string>
+    <string name="movies">Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="ini_adalah_poster_backdrop_pada_activity_detail">ini adalah poster backdrop</string>
+    <string name="popularity">Popularitas :</string>
+    <string name="vote">Rata-rata Pilih :</string>
+    <string name="overview">Ikhtisar :</string>
+    <string name="pengaturan_bahasa">Pengaturan Bahasa</string>
+</resources>
